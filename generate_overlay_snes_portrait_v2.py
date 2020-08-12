@@ -233,19 +233,8 @@ ol_portrait.descs.append(lr_r)
 # nrr
 nrr_x = ol_portrait.width / 2
 nrr_y = 1050
-nrr_btn_to_center_dist = 120
 nrr_rx = 40
 nrr_ry = 40
-nrr_next = overlay_desc()
-nrr_next.name = 'overlay_next'
-nrr_next.x = nrr_x - nrr_btn_to_center_dist
-nrr_next.y = nrr_y
-nrr_next.shape = 'rect'
-nrr_next.rx = nrr_rx
-nrr_next.ry = nrr_ry
-nrr_next.img = 'next.png'
-nrr_next.target = 'menu'
-ol_portrait.descs.append(nrr_next)
 nrr_rgui = overlay_desc()
 nrr_rgui.name = 'menu_toggle'
 nrr_rgui.x = nrr_x
@@ -255,16 +244,6 @@ nrr_rgui.rx = nrr_rx
 nrr_rgui.ry = nrr_ry
 nrr_rgui.img = 'rgui.png'
 ol_portrait.descs.append(nrr_rgui)
-nrr_rotate = overlay_desc()
-nrr_rotate.name = 'overlay_next'
-nrr_rotate.x = nrr_x + nrr_btn_to_center_dist
-nrr_rotate.y = nrr_y
-nrr_rotate.shape = 'rect'
-nrr_rotate.rx = nrr_rx
-nrr_rotate.ry = nrr_ry
-nrr_rotate.img = 'rotate.png'
-nrr_rotate.target = 'landscape'
-ol_portrait.descs.append(nrr_rotate)
 
 overlays.append(ol_portrait)
 
