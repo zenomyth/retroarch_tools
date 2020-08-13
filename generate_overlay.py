@@ -160,6 +160,7 @@ ol_portrait.add_diagonal_touch('right|up', 'down|right', 'left|down', 'up|left',
 # abxy
 ol_portrait.add_cross_image('x.png', 'a.png', 'b.png', 'y.png', ol_portrait.width - 260, 1575, 170, 175, 80)
 ol_portrait.add_cross_touch('x', 'a', 'b', 'y', ol_portrait.width - 260, 1575, 170, 175, 90)
+ol_portrait.add_diagonal_touch('a|x', 'b|a', 'y|b', 'x|y', ol_portrait.width - 260, 1575, 85, 87.5, 30)
 
 # ss
 ol_portrait.add_lr('select', 'start', ol_portrait.width / 2, 1250, 80, 60, 60, 'select.png', 'start.png', None, None)
@@ -189,6 +190,7 @@ ol_landscape.add_diagonal_touch('right|up', 'down|right', 'left|down', 'up|left'
 # abxy
 ol_landscape.add_cross_image('x.png', 'a.png', 'b.png', 'y.png', ol_landscape.width - 260, 575, 170, 175, 80)
 ol_landscape.add_cross_touch('x', 'a', 'b', 'y', ol_landscape.width - 260, 575, 170, 175, 90)
+ol_landscape.add_diagonal_touch('a|x', 'b|a', 'y|b', 'x|y', ol_landscape.width - 260, 575, 85, 87.5, 30)
 
 # ss
 ol_landscape.add_lr('select', 'start', ol_landscape.width / 2, 250, 80, 60, 60, 'select.png', 'start.png', None, None)
