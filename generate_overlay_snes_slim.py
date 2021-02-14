@@ -153,7 +153,7 @@ ol_portrait.width = 1080
 ol_portrait.height = 2248
 
 # dpad
-ol_portrait.add_single_button('nul', 210, 1575, 'rect', 200, 210, 'dpad.png', None)
+ol_portrait.add_single_button('nul', 210, 1575, 'rect', 200, 200, 'dpad.png', None)
 ol_portrait.add_cross_touch('up', 'right', 'down', 'left', 210, 1575, 120, 120, 90)
 ol_portrait.add_diagonal_touch('right|up', 'down|right', 'left|down', 'up|left', 210, 1575, 120, 120, 70)
 
@@ -171,7 +171,7 @@ ol_portrait.add_lr('l', 'r', ol_portrait.width / 2, 1250, ol_portrait.width / 2 
 # sl
 ol_portrait.add_lr('load_state', 'save_state', ol_portrait.width / 2, 1050, ol_portrait.width / 2 - 60, 50, 50, 'load.png', 'save.png', None, None)
 
-#ff
+# ff
 ol_portrait.add_single_button('toggle_fast_forward', 260, 1050, 'rect', 50, 50, 'ff2.png', None)
 
 # main menu
