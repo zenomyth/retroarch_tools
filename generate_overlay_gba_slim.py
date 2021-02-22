@@ -192,75 +192,13 @@ ol_portrait.add_lr('l', 'r', ol_portrait.width / 2, 1250, ol_portrait.width / 2 
 # sl
 ol_portrait.add_lr('load_state', 'save_state', ol_portrait.width / 2, 1050, ol_portrait.width / 2 - 60, 50, 50, 'load.png', 'save.png', None, None)
 
-# nrr
+# ff
+ol_portrait.add_single_button('toggle_fast_forward', 260, 1050, 'rect', 50, 50, 'ff2.png', None)
+
+# main menu
 ol_portrait.add_single_button('menu_toggle', ol_portrait.width / 2, 1050, 'rect', 40, 40, 'rgui.png', None)
-ol_portrait.add_lr('overlay_next', 'overlay_next', ol_portrait.width / 2, 1050, 120, 40, 40, 'next.png', 'rotate.png', 'menu_portrait', 'landscape')
 
 overlays.append(ol_portrait)
-
-# landscape
-ol_landscape = overlay()
-ol_landscape.name = 'landscape'
-ol_landscape.range_mod = '1.5'
-ol_landscape.alpha_mod = '2.0'
-ol_landscape.width = 2248
-ol_landscape.height = 1080
-
-# dpad
-ol_landscape.add_single_button('nul', 210, 575, 'rect', 200, 210, 'dpad.png', None)
-ol_landscape.add_cross_touch('up', 'right', 'down', 'left', 210, 575, 120, 120, 90)
-ol_landscape.add_diagonal_touch('right|up', 'down|right', 'left|down', 'up|left', 210, 575, 120, 120, 70)
-
-# ab
-ol_landscape.add_ab('nul', 'nul', ol_landscape.width - 190, 575, 100, 40, 80, 80, 'b.png', 'a.png', None, None)
-ol_landscape.add_ab('a', 'b', ol_landscape.width - 190, 575, 100, 40, 90, 90, None, None, None, None)
-ol_landscape.add_single_button('a|b', ol_landscape.width - 190, 575, 'rect', 15, 15, None, None)
-
-# ss
-ol_landscape.add_lr('select', 'start', ol_landscape.width / 2, 800, 110, 100, 31, 'select.png', 'start.png', None, None)
-
-# lr
-ol_landscape.add_lr('l', 'r', ol_landscape.width / 2, 200, ol_landscape.width / 2 - 110, 100, 55, 'l.png', 'r.png', None, None)
-
-# nrr
-ol_landscape.add_single_button('menu_toggle', ol_landscape.width / 2, 50, 'rect', 40, 40, 'rgui.png', None)
-ol_landscape.add_lr('overlay_next', 'overlay_next', ol_landscape.width / 2, 50, 120, 40, 40, 'next.png', 'rotate.png', 'menu_landscape', 'portrait')
-
-overlays.append(ol_landscape)
-
-# menu portrait
-ol_menu_portrait = overlay()
-ol_menu_portrait.name = 'menu_portrait'
-ol_menu_portrait.range_mod = '1.5'
-ol_menu_portrait.alpha_mod = '2.0'
-ol_menu_portrait.width = 1080
-ol_menu_portrait.height = 2248
-
-ol_menu_portrait.add_lr('load_state', 'save_state', ol_menu_portrait.width / 2, 1200, 250, 200, 70, 'load-state.png', 'save-state.png', None, None)
-ol_menu_portrait.add_lr('shader_prev', 'shader_next', ol_menu_portrait.width / 2, 1400, 250, 200, 70, 'prev-shader.png', 'next-shader.png', None, None)
-ol_menu_portrait.add_lr('state_slot_increase', 'state_slot_decrease', ol_menu_portrait.width / 2, 1600, 250, 200, 70, 'next-state.png', 'prev-state.png', None, None)
-ol_menu_portrait.add_lr('rewind', 'toggle_fast_forward', ol_menu_portrait.width / 2, 1800, 250, 200, 70, 'rewind.png', 'ff.png', None, None)
-ol_menu_portrait.add_lr('slowmotion', 'reset', ol_menu_portrait.width / 2, 2000, 250, 200, 70, 'slowmo.png', 'reset.png', None, None)
-ol_menu_portrait.add_single_button('overlay_next', ol_menu_portrait.width / 2 - 120, 1050, 'radial', 40, 40, 'next.png', 'portrait')
-
-overlays.append(ol_menu_portrait)
-
-# menu landscape
-ol_menu_landscape = overlay()
-ol_menu_landscape.name = 'menu_landscape'
-ol_menu_landscape.range_mod = '1.5'
-ol_menu_landscape.alpha_mod = '2.0'
-ol_menu_landscape.width = 2248
-ol_menu_landscape.height = 1080
-
-ol_menu_landscape.add_lr('load_state', 'save_state', ol_menu_landscape.width / 2, 200, 250, 200, 70, 'load-state.png', 'save-state.png', None, None)
-ol_menu_landscape.add_lr('shader_prev', 'shader_next', ol_menu_landscape.width / 2, 400, 250, 200, 70, 'prev-shader.png', 'next-shader.png', None, None)
-ol_menu_landscape.add_lr('state_slot_increase', 'state_slot_decrease', ol_menu_landscape.width / 2, 600, 250, 200, 70, 'next-state.png', 'prev-state.png', None, None)
-ol_menu_landscape.add_lr('rewind', 'toggle_fast_forward', ol_menu_landscape.width / 2, 800, 250, 200, 70, 'rewind.png', 'ff.png', None, None)
-ol_menu_landscape.add_lr('slowmotion', 'reset', ol_menu_landscape.width / 2, 1000, 250, 200, 70, 'slowmo.png', 'reset.png', None, None)
-ol_menu_landscape.add_single_button('overlay_next', ol_menu_landscape.width / 2 - 120, 50, 'radial', 40, 40, 'next.png', 'landscape')
-
-overlays.append(ol_menu_landscape)
 
 # print the result
 print('overlays = %d' % (len(overlays)))
