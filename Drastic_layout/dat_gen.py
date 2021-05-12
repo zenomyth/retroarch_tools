@@ -85,7 +85,7 @@ def generate_touch_friendly_layout():
     screen_height = screen_width // 4 * 3
     dpad_y = 1620 + 50
     dpad_width = 320
-    abxy_width = 320
+    abxy_width = 400
     lr_y = 1620 + 20
     # filename = 'LC_2_touch.dat'
     filename = 'LC_2_Legend of Zelda - Phantom Hourglass (E).dat'
@@ -103,10 +103,10 @@ def generate_touch_friendly_layout():
     data[index + 1] = 1
     index += 2
     # Dpad
-    data[index:index + 8] = format_block(90, dpad_y, dpad_width, dpad_width)
+    data[index:index + 8] = format_block(60, dpad_y, dpad_width, dpad_width)
     index += 8
     # ABXY
-    data[index:index + 8] = format_block(device_width - abxy_width // 2 - 90, dpad_y + dpad_width // 2, abxy_width, abxy_width)
+    data[index:index + 8] = format_block(device_width - abxy_width // 2 - 60, dpad_y + dpad_width // 2, abxy_width, abxy_width)
     index += 8
     # L
     data[index:index + 8] = format_block(0, lr_y, 90, 30)
@@ -146,8 +146,8 @@ def generate_touch_friendly_layout():
     f.close()
 
 def main():
-    generate_joypad_friendly_layout()
-    # generate_touch_friendly_layout()
+    # generate_joypad_friendly_layout()
+    generate_touch_friendly_layout()
 
 if __name__ == '__main__':
     main()
