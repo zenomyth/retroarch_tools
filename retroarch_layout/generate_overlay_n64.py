@@ -194,8 +194,8 @@ ol_analog.add_ab('nul', 'nul', ol_analog.width - 190, ab_height, 100, 40, 80, 80
 ol_analog.add_ab('y', 'b', ol_analog.width - 190, ab_height, 100, 40, 90, 90, None, None, None, None)
 
 # c
-ol_analog.add_cross_image('n64_upc.png', 'n64_rightc.png', 'n64_downc.png', 'n64_leftc.png', ol_analog.width / 2, c_height, 130, 130, 60)
-ol_analog.add_cross_touch('r2|x', 'r2|a', 'r2|b', 'r2|y', ol_analog.width / 2, c_height, 130, 130, 70)
+ol_analog.add_cross_image('n64_upc.png', 'n64_rightc.png', 'n64_downc.png', 'n64_leftc.png', ol_analog.width / 2, c_height, 110, 110, 60)
+ol_analog.add_cross_touch('r2|x', 'r2|a', 'r2|b', 'r2|y', ol_analog.width / 2, c_height, 110, 110, 70)
 
 # s
 ol_analog.add_single_button('start', ol_analog.width / 2, ss_height, 'radial', 60, 60, 'n64_start.png')
@@ -241,8 +241,8 @@ ol_digital.add_ab('nul', 'nul', ol_digital.width - 190, ab_height, 100, 40, 80, 
 ol_digital.add_ab('y', 'b', ol_digital.width - 190, ab_height, 100, 40, 90, 90, None, None, None, None)
 
 # c
-ol_digital.add_cross_image('n64_upc.png', 'n64_rightc.png', 'n64_downc.png', 'n64_leftc.png', ol_digital.width / 2, c_height, 130, 130, 60)
-ol_digital.add_cross_touch('r2|x', 'r2|a', 'r2|b', 'r2|y', ol_digital.width / 2, c_height, 130, 130, 70)
+ol_digital.add_cross_image('n64_upc.png', 'n64_rightc.png', 'n64_downc.png', 'n64_leftc.png', ol_digital.width / 2, c_height, 110, 110, 60)
+ol_digital.add_cross_touch('r2|x', 'r2|a', 'r2|b', 'r2|y', ol_digital.width / 2, c_height, 110, 110, 70)
 
 # s
 ol_digital.add_single_button('start', ol_digital.width / 2, ss_height, 'radial', 60, 60, 'n64_start.png')
