@@ -1,0 +1,1331 @@
+{
+  "version": "1.5",
+  "default_core_path": "/home/ark/.config/retroarch/cores/nestopia_libretro.so",
+  "default_core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/roms/nes/1942.zip#1942.nes",
+      "label": "1942",
+      "core_path": "C:\\bin\\RetroArch-Win64\\cores\\nestopia_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "42C89DB5|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/1943.zip#1943.nes",
+      "label": "1943",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D131BF15|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/1944.zip#1944.nes",
+      "label": "1944",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "46249D57|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Adventure Islands 2 (U).zip#Adventure Islands 2 (U).nes",
+      "label": "Adventure Islands 2 (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5D8F80C7|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Adventure Islands 3 (U).zip#Adventure Islands 3 (U).nes",
+      "label": "Adventure Islands 3 (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CD1417E2|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Adventures of Lolo (U) [!].zip#Adventures of Lolo (U) [!].nes",
+      "label": "Adventures of Lolo (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B66471CB|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Adventures of Lolo 2 (USA).zip#Adventures of Lolo 2 (USA).nes",
+      "label": "Adventures of Lolo 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "862AB1E5|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Adventures of Lolo 3 (USA).zip#Adventures of Lolo 3 (USA).nes",
+      "label": "Adventures of Lolo 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E06A060B|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Arkanoid (USA).zip#Arkanoid (USA).nes",
+      "label": "Arkanoid (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EE93A28C|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Balloon Fight (USA).zip#Balloon Fight (USA).nes",
+      "label": "Balloon Fight (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CB8FD7B2|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Bandit Kings of Ancient China (USA).zip#Bandit Kings of Ancient China (USA).nes",
+      "label": "Bandit Kings of Ancient China (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A9E2BF31|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Bard's Tale, The - Tales of the Unknown (USA).zip#Bard's Tale, The - Tales of the Unknown (USA).nes",
+      "label": "Bard's Tale, The - Tales of the Unknown (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "73CEFBA7|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Batman - The Video Game (USA).zip#Batman - The Video Game (USA).nes",
+      "label": "Batman - The Video Game (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "395569EC|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Battle City (Japan).zip#Battle City (Japan).nes",
+      "label": "Battle City (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F599A07E|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Battletoads & Double Dragon - The Ultimate Team (USA).zip#Battletoads & Double Dragon - The Ultimate Team (USA).nes",
+      "label": "Battletoads & Double Dragon - The Ultimate Team (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "53B02F3D|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Battletoads (USA).zip#Battletoads (USA).nes",
+      "label": "Battletoads (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BA9164E7|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Bionic Commando (USA).zip#Bionic Commando (USA).nes",
+      "label": "Bionic Commando (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "83BE000C|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Bomberman (USA).zip#Bomberman (USA).nes",
+      "label": "Bomberman (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B9804046|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Bomberman II (USA).zip#Bomberman II (USA).nes",
+      "label": "Bomberman II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CC7BCFEB|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Bubble Bobble (USA).zip#Bubble Bobble (USA).nes",
+      "label": "Bubble Bobble (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D3A91B41|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Bucky O'Hare (USA).zip#Bucky O'Hare (USA).nes",
+      "label": "Bucky O'Hare (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CB0DE10E|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Captain Tsubasa Vol. II - Super Striker (Japan).zip#Captain Tsubasa Vol. II - Super Striker (Japan).nes",
+      "label": "Captain Tsubasa Vol. II - Super Striker (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "14A366BB|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Captain Tsubasa Vol. II - Super Striker (Japan) [En by Hayabusakun v1.0][+title].zip#Captain Tsubasa Vol. II - Super Striker (Japan) [En by Hayabusakun v1.0][+title].nes",
+      "label": "Captain Tsubasa Vol. II - Super Striker (Japan) [En by Hayabusakun v1.0][+title]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6509E81D|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Castlevania (E).zip#Castlevania (E).nes",
+      "label": "Castlevania (E)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9A3CF4D6|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Castlevania II - Simon's Quest (U).zip#Castlevania II - Simon's Quest (U).nes",
+      "label": "Castlevania II - Simon's Quest (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A9C2C503|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Castlevania III - Dracula's Curse (U) [!].zip#Castlevania III - Dracula's Curse (U) [!].nes",
+      "label": "Castlevania III - Dracula's Curse (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7CC9C669|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Chip 'n Dale Rescue Rangers (USA).zip#Chip 'n Dale Rescue Rangers (USA).nes",
+      "label": "Chip 'n Dale Rescue Rangers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E641BD98|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Chip 'n Dale Rescue Rangers 2 (USA).zip#Chip 'n Dale Rescue Rangers 2 (USA).nes",
+      "label": "Chip 'n Dale Rescue Rangers 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "91E4A289|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Circus Charlie (Japan).zip#Circus Charlie (Japan).nes",
+      "label": "Circus Charlie (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DA673C95|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Clu Clu Land (JU) [p1].zip#Clu Clu Land (JU) [p1].nes",
+      "label": "Clu Clu Land (JU) [p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "301CE3D0|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Code Name - Viper (USA).zip#Code Name - Viper (USA).nes",
+      "label": "Code Name - Viper (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C8A23081|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Commando (USA).zip#Commando (USA).nes",
+      "label": "Commando (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "41492DF6|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Contra (J).zip#Contra (J).nes",
+      "label": "Contra (J)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8A96A3C4|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Contra (U) [!].zip#Contra (U) [!].nes",
+      "label": "Contra (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C50A8304|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Crystalis (USA).zip#Crystalis (USA).nes",
+      "label": "Crystalis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1BD39032|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Dai-2-Ji - Super Robot Taisen (Japan) [En by Aeon Genesis v1.00].zip#Dai-2-Ji - Super Robot Taisen (Japan) [En by Aeon Genesis v1.00].nes",
+      "label": "Dai-2-Ji - Super Robot Taisen (Japan) [En by Aeon Genesis v1.00]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "648C69FE|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Deja Vu (USA).zip#Deja Vu (USA).nes",
+      "label": "Deja Vu (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4A432C5C|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Destiny of an Emperor (USA).zip#Destiny of an Emperor (USA).nes",
+      "label": "Destiny of an Emperor (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C0F73D85|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Dig Dug (J).zip#Dig Dug (J).nes",
+      "label": "Dig Dug (J)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3AE8289A|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Door Door (J).zip#Door Door (J).nes",
+      "label": "Door Door (J)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9A786342|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Double Dragon (U).zip#Double Dragon (U).nes",
+      "label": "Double Dragon (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "62AFE166|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Double Dragon II - The Revenge (U).zip#Double Dragon II - The Revenge (U).nes",
+      "label": "Double Dragon II - The Revenge (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "576CC1A0|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Double Dragon III - The Sacred Stones (U).zip#Double Dragon III - The Sacred Stones (U).nes",
+      "label": "Double Dragon III - The Sacred Stones (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7A6E0454|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Dr. Mario (Japan, USA).zip#Dr. Mario (Japan, USA).nes",
+      "label": "Dr. Mario (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B1F7E3E9|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Dragon Ball Z - Kyoushuu! Saiya Jin (Japan) [En by Twilight v1.01] (~Dragon Ball Z - Assault of the Saiyans).zip#Dragon Ball Z - Kyoushuu! Saiya Jin (Japan) [En by Twilight v1.01] (~Dragon Ball Z - Assault of the Saiyans).nes",
+      "label": "Dragon Ball Z - Kyoushuu! Saiya Jin (Japan) [En by Twilight v1.01] (~Dragon Ball Z - Assault of the Saiyans)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "84AECEB7|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Dragon Warrior (USA).zip#Dragon Warrior (USA).nes",
+      "label": "Dragon Warrior (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CAAF5C6B|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Dragon Warrior - Part II (USA).zip#Dragon Warrior - Part II (USA).nes",
+      "label": "Dragon Warrior - Part II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E9F5BE99|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Dragon Warrior III (USA).zip#Dragon Warrior III (USA).nes",
+      "label": "Dragon Warrior III (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0EB63E83|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Dragon Warrior IV (USA).zip#Dragon Warrior IV (USA).nes",
+      "label": "Dragon Warrior IV (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F6B24806|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Duck Tales (USA).zip#Duck Tales (USA).nes",
+      "label": "Duck Tales (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DCB94341|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Duck Tales 2 (USA).zip#Duck Tales 2 (USA).nes",
+      "label": "Duck Tales 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "40CE2FC0|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Earthbound (USA) (Proto).zip#Earthbound (USA) (Proto).nes",
+      "label": "Earthbound (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F5EF5002|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Eggerland - Meikyuu no Fukkatsu (J).zip#Eggerland - Meikyuu no Fukkatsu (J).nes",
+      "label": "Eggerland - Meikyuu no Fukkatsu (J)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FAE5A5C0|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Elevator Action (USA).zip#Elevator Action (USA).nes",
+      "label": "Elevator Action (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D415571F|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Excitebike (JU) [!].zip#Excitebike (JU) [!].nes",
+      "label": "Excitebike (JU) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2BB33C69|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Famicom Wars (Japan) (Rev 0B) [En by Spinner 8 and friends v1.0].zip#Famicom Wars (Japan) (Rev 0B) [En by Spinner 8 and friends v1.0].nes",
+      "label": "Famicom Wars (Japan) (Rev 0B) [En by Spinner 8 and friends v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "896759D8|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Faxanadu (U).zip#Faxanadu (U).nes",
+      "label": "Faxanadu (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F1AFA720|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Final Fantasy (USA).zip#Final Fantasy (USA).nes",
+      "label": "Final Fantasy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AB12ECE6|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Final Fantasy II (USA) (Proto).zip#Final Fantasy II (USA) (Proto).nes",
+      "label": "Final Fantasy II (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F60D282C|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Final Fantasy III (Japan).zip#Final Fantasy III (Japan).nes",
+      "label": "Final Fantasy III (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "170163F1|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Final Fantasy III (Japan) [En by Chaos Rush v1.4].zip#Final Fantasy III (Japan) [En by Chaos Rush v1.4].nes",
+      "label": "Final Fantasy III (Japan) [En by Chaos Rush v1.4]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F6811104|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Fire Emblem (Japan) [En by Quirino v1.0].zip#Fire Emblem (Japan) [En by Quirino v1.0].nes",
+      "label": "Fire Emblem (Japan) [En by Quirino v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6EA742F1|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Fire Emblem Gaiden (Japan) [En by Artemis251 v1.01].zip#Fire Emblem Gaiden (Japan) [En by Artemis251 v1.01].nes",
+      "label": "Fire Emblem Gaiden (Japan) [En by Artemis251 v1.01]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ED74E1FA|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Galaga - Demons of Death (USA).zip#Galaga - Demons of Death (USA).nes",
+      "label": "Galaga - Demons of Death (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E36D5991|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Ganbare Goemon 2 (Japan) [En by Stardust Crusaders v1.0].zip#Ganbare Goemon 2 (Japan) [En by Stardust Crusaders v1.0].nes",
+      "label": "Ganbare Goemon 2 (Japan) [En by Stardust Crusaders v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F64E2FAE|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Ganbare Goemon! - Karakuri Douchuu (Japan) [En by Dragoon-X v1.02].zip#Ganbare Goemon! - Karakuri Douchuu (Japan) [En by Dragoon-X v1.02].nes",
+      "label": "Ganbare Goemon! - Karakuri Douchuu (Japan) [En by Dragoon-X v1.02]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B8363DEE|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Genghis Khan (USA).zip#Genghis Khan (USA).nes",
+      "label": "Genghis Khan (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "478A04D8|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Ghosts'n Goblins (USA).zip#Ghosts'n Goblins (USA).nes",
+      "label": "Ghosts'n Goblins (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "87ED54AA|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Golf (USA).zip#Golf (USA).nes",
+      "label": "Golf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6C4E5A87|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Gomoku Narabe (Japan).zip#Gomoku Narabe (Japan).nes",
+      "label": "Gomoku Narabe (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "28843BB1|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Goonies II, The (USA).zip#Goonies II, The (USA).nes",
+      "label": "Goonies II, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AA9CA482|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Gradius (USA).zip#Gradius (USA).nes",
+      "label": "Gradius (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7A269942|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Gradius II (Japan).zip#Gradius II (Japan).nes",
+      "label": "Gradius II (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D213AA0D|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Gun.Smoke (USA).zip#Gun.Smoke (USA).nes",
+      "label": "Gun.Smoke (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6B8F23E0|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Gyrodine (Japan).zip#Gyrodine (Japan).nes",
+      "label": "Gyrodine (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CE936921|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Ice Climber (USA, Europe).zip#Ice Climber (USA, Europe).nes",
+      "label": "Ice Climber (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "70044A74|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Jackal (U).zip#Jackal (U).nes",
+      "label": "Jackal (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2E52D091|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Jackie Chan's Action Kung Fu (U).zip#Jackie Chan's Action Kung Fu (U).nes",
+      "label": "Jackie Chan's Action Kung Fu (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "98ACDCCB|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Kid Icarus (UE).zip#Kid Icarus (UE).nes",
+      "label": "Kid Icarus (UE)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "05B05500|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Kirby's Adventure (E).zip#Kirby's Adventure (E).nes",
+      "label": "Kirby's Adventure (E)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EC2328B3|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Krazy Kreatures (USA) (Unl).zip#Krazy Kreatures (USA) (Unl).nes",
+      "label": "Krazy Kreatures (USA) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A17788DE|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Kung Fu (U).zip#Kung Fu (U).nes",
+      "label": "Kung Fu (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F0334E2A|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Legend of Kage, The (USA).zip#Legend of Kage, The (USA).nes",
+      "label": "Legend of Kage, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6785C961|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Legend of Zelda, The (USA).zip#Legend of Zelda, The (USA).nes",
+      "label": "Legend of Zelda, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D7AE93DF|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Lemmings (USA).zip#Lemmings (USA).nes",
+      "label": "Lemmings (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CB2C08D4|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Life Force (U).zip#Life Force (U).nes",
+      "label": "Life Force (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F7B55696|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Little Mermaid, The (USA).zip#Little Mermaid, The (USA).nes",
+      "label": "Little Mermaid, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "08EB97DB|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Little Nemo - The Dream Master (USA).zip#Little Nemo - The Dream Master (USA).nes",
+      "label": "Little Nemo - The Dream Master (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "71D868C4|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Lode Runner (USA).zip#Lode Runner (USA).nes",
+      "label": "Lode Runner (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CD4BF911|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Lone Ranger, The (USA).zip#Lone Ranger, The (USA).nes",
+      "label": "Lone Ranger, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "06C65580|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Magic Jewelry (Asia) (Unl).zip#Magic Jewelry (Asia) (Unl).nes",
+      "label": "Magic Jewelry (Asia) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C3940BF2|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Magic Jewelry 2 (Asia) (Unl).zip#Magic Jewelry 2 (Asia) (Unl).nes",
+      "label": "Magic Jewelry 2 (Asia) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9D4B8891|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Marble Madness (USA).zip#Marble Madness (USA).nes",
+      "label": "Marble Madness (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F9282F28|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Mario Open Golf (Japan).zip#Mario Open Golf (Japan).nes",
+      "label": "Mario Open Golf (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DF4464D6|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Mega Man (U).zip#Mega Man (U).nes",
+      "label": "Mega Man (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A46011A0|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Mega Man 2 (U).zip#Mega Man 2 (U).nes",
+      "label": "Mega Man 2 (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5E268761|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Mega Man 3 (U) [!].zip#Mega Man 3 (U) [!].nes",
+      "label": "Mega Man 3 (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BE6DBB5D|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Mega Man 4 (U).zip#Mega Man 4 (U).nes",
+      "label": "Mega Man 4 (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ADBD4E48|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Mega Man 5 (U).zip#Mega Man 5 (U).nes",
+      "label": "Mega Man 5 (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5E023291|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Mega Man 6 (U).zip#Mega Man 6 (U).nes",
+      "label": "Mega Man 6 (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1EFCAC48|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Metroid (U) [!].zip#Metroid (U) [!].nes",
+      "label": "Metroid (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4DE6A02B|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Mike Tyson's Punch-Out!! (USA).zip#Mike Tyson's Punch-Out!! (USA).nes",
+      "label": "Mike Tyson's Punch-Out!! (USA)",
+      "core_path": "C:\\bin\\RetroArch-Win64\\cores\\nestopia_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "83DB7938|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/New Zealand Story (E).zip#New Zealand Story (E).nes",
+      "label": "New Zealand Story (E)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4CF8ED7E|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Ninja Gaiden (U) [!].zip#Ninja Gaiden (U) [!].nes",
+      "label": "Ninja Gaiden (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "11F953F6|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Ninja Gaiden 2 - The Dark Sword of Chaos (U).zip#Ninja Gaiden 2 - The Dark Sword of Chaos (U).nes",
+      "label": "Ninja Gaiden 2 - The Dark Sword of Chaos (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6A889953|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Ninja Gaiden 3 - The Ancient Ship of Doom (U) [!].zip#Ninja Gaiden 3 - The Ancient Ship of Doom (U) [!].nes",
+      "label": "Ninja Gaiden 3 - The Ancient Ship of Doom (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BABD39FA|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Ninja Kid (USA).zip#Ninja Kid (USA).nes",
+      "label": "Ninja Kid (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4DE7236F|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Ninja Kun - Ashura no Shou (Japan).zip#Ninja Kun - Ashura no Shou (Japan).nes",
+      "label": "Ninja Kun - Ashura no Shou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1294298B|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Nobunaga's Ambition (USA).zip#Nobunaga's Ambition (USA).nes",
+      "label": "Nobunaga's Ambition (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "23ED1B71|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Othello (USA).zip#Othello (USA).nes",
+      "label": "Othello (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "97428519|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Pac-Man (USA) (Namco).zip#Pac-Man (USA) (Namco).nes",
+      "label": "Pac-Man (USA) (Namco)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "15D202D8|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Pinball (Japan, USA).zip#Pinball (Japan, USA).nes",
+      "label": "Pinball (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "88C15CF3|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Pirates! (USA).zip#Pirates! (USA).nes",
+      "label": "Pirates! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "64FC3667|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Pooyan (Japan).zip#Pooyan (Japan).nes",
+      "label": "Pooyan (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1D54DD4C|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Probotector (E).zip#Probotector (E).nes",
+      "label": "Probotector (E)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8236D3E0|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Puyo Puyo (Japan).zip#Puyo Puyo (Japan).nes",
+      "label": "Puyo Puyo (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3F42A1CC|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Pyramid (USA) (Unl).zip#Pyramid (USA) (Unl).nes",
+      "label": "Pyramid (USA) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B7EB4433|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/R.C. Pro-Am (USA).zip#R.C. Pro-Am (USA).nes",
+      "label": "R.C. Pro-Am (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2100D90B|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Rad Racer (USA).zip#Rad Racer (USA).nes",
+      "label": "Rad Racer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "595DAA35|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Rad Racer II (USA).zip#Rad Racer II (USA).nes",
+      "label": "Rad Racer II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "39D371EC|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Rampage (USA).zip#Rampage (USA).nes",
+      "label": "Rampage (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "628FE3C9|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Road Fighter (Europe).zip#Road Fighter (Europe).nes",
+      "label": "Road Fighter (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FA09EFA9|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Rolling Thunder (USA) (Unl).zip#Rolling Thunder (USA) (Unl).nes",
+      "label": "Rolling Thunder (USA) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E68A35BC|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Romance of the Three Kingdoms (USA).zip#Romance of the Three Kingdoms (USA).nes",
+      "label": "Romance of the Three Kingdoms (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A3B7E6F3|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Romance of the Three Kingdoms II (USA).zip#Romance of the Three Kingdoms II (USA).nes",
+      "label": "Romance of the Three Kingdoms II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D421F765|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Rush'n Attack (U).zip#Rush'n Attack (U).nes",
+      "label": "Rush'n Attack (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "14A113A5|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Saint Seiya - Ougon Densetsu Kanketsu Hen (English v1.01).zip#Saint Seiya - Ougon Densetsu Kanketsu Hen (English v1.01).nes",
+      "label": "Saint Seiya - Ougon Densetsu Kanketsu Hen (English v1.01)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4EDEDAD4|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Saint Seiya - Ougon Densetsu Kanketsu Hen (Japan).zip#Saint Seiya - Ougon Densetsu Kanketsu Hen (Japan).nes",
+      "label": "Saint Seiya - Ougon Densetsu Kanketsu Hen (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2727615A|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Salamander (J).zip#Salamander (J).nes",
+      "label": "Salamander (J)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BF822264|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Sangokushi 2 - Haou no Tairiku (Japan).zip#Sangokushi 2 - Haou no Tairiku (Japan).nes",
+      "label": "Sangokushi 2 - Haou no Tairiku (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E83C33A5|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Shadow of the Ninja (USA).zip#Shadow of the Ninja (USA).nes",
+      "label": "Shadow of the Ninja (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F74A04AB|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Shadowgate (USA).zip#Shadowgate (USA).nes",
+      "label": "Shadowgate (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "74CAEBE3|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Side Pocket (USA).zip#Side Pocket (USA).nes",
+      "label": "Side Pocket (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1FBACF06|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Silk Worm (U).zip#Silk Worm (U).nes",
+      "label": "Silk Worm (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7D627348|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Silver Surfer (USA).zip#Silver Surfer (USA).nes",
+      "label": "Silver Surfer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9A83817C|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Solomon's Key 2 (Europe).zip#Solomon's Key 2 (Europe).nes",
+      "label": "Solomon's Key 2 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DB17E3BF|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Startropics (U).zip#Startropics (U).nes",
+      "label": "Startropics (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4EC835B8|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Super C (U) [!].zip#Super C (U) [!].nes",
+      "label": "Super C (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1AC846F0|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Super Mario Bros. (E).zip#Super Mario Bros. (E).nes",
+      "label": "Super Mario Bros. (E)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7D5FAA58|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Super Mario Bros. 2 (E) [!].zip#Super Mario Bros. 2 (E) [!].nes",
+      "label": "Super Mario Bros. 2 (E) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C3DD80AF|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Super Mario Bros. 3 (E).zip#Super Mario Bros. 3 (E).nes",
+      "label": "Super Mario Bros. 3 (E)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3BC2E2DF|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Super Pitfall (USA).zip#Super Pitfall (USA).nes",
+      "label": "Super Pitfall (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A4958020|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Taboo - The Sixth Sense (USA).zip#Taboo - The Sixth Sense (USA).nes",
+      "label": "Taboo - The Sixth Sense (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E896E635|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Takahashi Meijin no Bouken Jima (Japan).zip#Takahashi Meijin no Bouken Jima (Japan).nes",
+      "label": "Takahashi Meijin no Bouken Jima (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "256E605F|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Tecmo Cup - Soccer Game (USA).zip#Tecmo Cup - Soccer Game (USA).nes",
+      "label": "Tecmo Cup - Soccer Game (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "04DE5917|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Teenage Mutant Ninja Turtles (U) [!].zip#Teenage Mutant Ninja Turtles (U) [!].nes",
+      "label": "Teenage Mutant Ninja Turtles (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "83213CA0|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Teenage Mutant Ninja Turtles II - The Arcade Game (U) [!].zip#Teenage Mutant Ninja Turtles II - The Arcade Game (U) [!].nes",
+      "label": "Teenage Mutant Ninja Turtles II - The Arcade Game (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "470B031B|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Teenage Mutant Ninja Turtles III - The Manhattan Project (USA).zip#Teenage Mutant Ninja Turtles III - The Manhattan Project (USA).nes",
+      "label": "Teenage Mutant Ninja Turtles III - The Manhattan Project (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DBB3BC30|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Tenchi wo Kurau II - Shokatsu Koumei Den (Japan) [En by Magic Destiny v1.12] (~Destiny of an Emperor II - The Story of Zhuge Liang).zip#Tenchi wo Kurau II - Shokatsu Koumei Den (Japan) [En by Magic Destiny v1.12] (~Destiny of an Emperor II - The Story of Zhuge Liang).nes",
+      "label": "Tenchi wo Kurau II - Shokatsu Koumei Den (Japan) [En by Magic Destiny v1.12] (~Destiny of an Emperor II - The Story of Zhuge Liang)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6DCFDA9E|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Tetris (USA).zip#Tetris (USA).nes",
+      "label": "Tetris (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6D72C53A|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Tetris (USA) (Unl).zip#Tetris (USA) (Unl).nes",
+      "label": "Tetris (USA) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "88F071C3|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Tetris 2 (USA).zip#Tetris 2 (USA).nes",
+      "label": "Tetris 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B6C0718B|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Tiny Toon Adventures (USA).zip#Tiny Toon Adventures (USA).nes",
+      "label": "Tiny Toon Adventures (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B34ED396|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Tiny Toon Adventures 2 - Trouble in Wackyland (USA).zip#Tiny Toon Adventures 2 - Trouble in Wackyland (USA).nes",
+      "label": "Tiny Toon Adventures 2 - Trouble in Wackyland (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AB36E3F7|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Twin Cobra (USA).zip#Twin Cobra (USA).nes",
+      "label": "Twin Cobra (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "24643875|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Uninvited (USA).zip#Uninvited (USA).nes",
+      "label": "Uninvited (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8579FA86|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Werewolf - The Last Warrior (USA).zip#Werewolf - The Last Warrior (USA).nes",
+      "label": "Werewolf - The Last Warrior (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "19AF4032|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Who Framed Roger Rabbit (USA).zip#Who Framed Roger Rabbit (USA).nes",
+      "label": "Who Framed Roger Rabbit (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E21DAB3E|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Willow (USA).zip#Willow (USA).nes",
+      "label": "Willow (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7D8D5F51|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Wizardry - Proving Grounds of the Mad Overlord (USA).zip#Wizardry - Proving Grounds of the Mad Overlord (USA).nes",
+      "label": "Wizardry - Proving Grounds of the Mad Overlord (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "804EF7F9|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Wizardry - The Knight of Diamonds (USA).zip#Wizardry - The Knight of Diamonds (USA).nes",
+      "label": "Wizardry - The Knight of Diamonds (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7516B446|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Wrecking Crew (World).zip#Wrecking Crew (World).nes",
+      "label": "Wrecking Crew (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "658D4FD4|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Wurm - Journey to the Center of the Earth! (USA).zip#Wurm - Journey to the Center of the Earth! (USA).nes",
+      "label": "Wurm - Journey to the Center of the Earth! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C1133E82|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Yie Ar Kung-Fu (Japan) (Rev 1.4).zip#Yie Ar Kung-Fu (Japan) (Rev 1.4).nes",
+      "label": "Yie Ar Kung-Fu (Japan) (Rev 1.4)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0D526208|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/nes/Zelda II - The Adventure of Link (USA).zip#Zelda II - The Adventure of Link (USA).nes",
+      "label": "Zelda II - The Adventure of Link (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E3C788B0|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    }
+  ]
+}

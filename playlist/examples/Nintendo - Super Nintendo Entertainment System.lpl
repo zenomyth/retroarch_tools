@@ -1,0 +1,1611 @@
+{
+  "version": "1.4",
+  "default_core_path": "/home/ark/.config/retroarch/cores/snes9x_libretro.so",
+  "default_core_name": "Nintendo - SNES / SFC (Snes9x - Current)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/roms/snes/ActRaiser (USA).zip#ActRaiser (USA).sfc",
+      "label": "ActRaiser (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EAC3358D|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/ActRaiser 2 (USA).zip#ActRaiser 2 (USA).sfc",
+      "label": "ActRaiser 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4901F718|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Addams Family, The (USA).zip#Addams Family, The (USA).sfc",
+      "label": "Addams Family, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2E8034AB|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Aerobiz (USA).zip#Aerobiz (USA).sfc",
+      "label": "Aerobiz (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "54302A46|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Aladdin (USA).zip#Aladdin (USA).sfc",
+      "label": "Aladdin (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "124D8E4D|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Axelay (U).zip#Axelay (U).smc",
+      "label": "Axelay (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "377E11A2|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Bahamut Lagoon (Japan) [En by DeJap+Neill Corlett+Tomato v1.3] (Emulator Edition).zip#Bahamut Lagoon (Japan) [En by DeJap+Neill Corlett+Tomato v1.3] (Emulator Edition).sfc",
+      "label": "Bahamut Lagoon (Japan) [En by DeJap+Neill Corlett+Tomato v1.3] (Emulator Edition)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "48922837|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Battletoads & Double Dragon - The Ultimate Team (USA).zip#Battletoads & Double Dragon - The Ultimate Team (USA).sfc",
+      "label": "Battletoads & Double Dragon - The Ultimate Team (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8B18AC01|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Battletoads in Battlemaniacs (USA).zip#Battletoads in Battlemaniacs (USA).sfc",
+      "label": "Battletoads in Battlemaniacs (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "617AC925|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Breath of Fire (U) [!].zip#Breath of Fire (U) [!].smc",
+      "label": "Breath of Fire (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "196CA665|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Breath of Fire II (U) [!].zip#Breath of Fire II (U) [!].smc",
+      "label": "Breath of Fire II (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "143669A6|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Bust-A-Move (USA).zip#Bust-A-Move (USA).sfc",
+      "label": "Bust-A-Move (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3266FD23|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Captain Commando (USA).zip#Captain Commando (USA).sfc",
+      "label": "Captain Commando (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "81DB73C7|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Captain Tsubasa III - Koutei no Chousen (English v1.0).zip#Captain Tsubasa III - Koutei no Chousen (English v1.0).sfc",
+      "label": "Captain Tsubasa III - Koutei no Chousen (English v1.0)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00472D5D|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Captain Tsubasa III - Koutei no Chousen (Japan).zip#Captain Tsubasa III - Koutei no Chousen (Japan).sfc",
+      "label": "Captain Tsubasa III - Koutei no Chousen (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "26B0CEE3|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Captain Tsubasa IV - Pro no Rival-tachi (Japan).zip#Captain Tsubasa IV - Pro no Rival-tachi (Japan).sfc",
+      "label": "Captain Tsubasa IV - Pro no Rival-tachi (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3E04B246|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Captain Tsubasa V - Hasha no Shougou Campione (Japan).zip#Captain Tsubasa V - Hasha no Shougou Campione (Japan).sfc",
+      "label": "Captain Tsubasa V - Hasha no Shougou Campione (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E2B26D99|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Casper (USA).zip#Casper (USA).sfc",
+      "label": "Casper (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A3B745BC|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Castlevania - Dracula X (USA).zip#Castlevania - Dracula X (USA).sfc",
+      "label": "Castlevania - Dracula X (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7C4887E1|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Chaos Seed (English Patched v1.02).zip#Chaos Seed (English Patched v1.02).smc",
+      "label": "Chaos Seed (English Patched v1.02)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "988A1FDF|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Chaos Seed - Fuusui Kairouki (Japan).zip#Chaos Seed - Fuusui Kairouki (Japan).sfc",
+      "label": "Chaos Seed - Fuusui Kairouki (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "76E01CCB|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Chessmaster, The (USA).zip#Chessmaster, The (USA).sfc",
+      "label": "Chessmaster, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BC671E15|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Chrono Trigger (US).zip#Chrono Trigger (US).smc",
+      "label": "Chrono Trigger (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8A36ED76|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Civilization (USA).zip#Civilization (USA).sfc",
+      "label": "Civilization (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "41FDBA82|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Contra III - The Alien Wars (U).zip#Contra III - The Alien Wars (U).smc",
+      "label": "Contra III - The Alien Wars (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "84DA7CFE|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/CutThroat Island (USA).zip#CutThroat Island (USA).sfc",
+      "label": "CutThroat Island (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "19EA457B|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Dai-3-ji Super Robot Taisen (English v2.00m2) [MUSIC PERSISTENCE].zip#Dai-3-ji Super Robot Taisen (English v2.00m2) [MUSIC PERSISTENCE].sfc",
+      "label": "Dai-3-ji Super Robot Taisen (English v2.00m2) [MUSIC PERSISTENCE]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A43F85B0|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Dai-3-ji Super Robot Taisen (English v2.00m2).zip#Dai-3-ji Super Robot Taisen (English v2.00m2).sfc",
+      "label": "Dai-3-ji Super Robot Taisen (English v2.00m2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "853E1F2C|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Dai-3-ji Super Robot Taisen (Japan) [En by Aeon Genesis v1.0] (~Super Robot Wars 3).zip#Dai-3-ji Super Robot Taisen (Japan) [En by Aeon Genesis v1.0] (~Super Robot Wars 3).sfc",
+      "label": "Dai-3-ji Super Robot Taisen (Japan) [En by Aeon Genesis v1.0] (~Super Robot Wars 3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "80980318|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Dai-3-ji Super Robot Taisen (Japan).zip#Dai-3-ji Super Robot Taisen (Japan).sfc",
+      "label": "Dai-3-ji Super Robot Taisen (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DFE9CC90|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Dai-4-ji Super Robot Taisen (Japan).zip#Dai-4-ji Super Robot Taisen (Japan).sfc",
+      "label": "Dai-4-ji Super Robot Taisen (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BE764D4C|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Demon's Crest (U) [!].zip#Demon's Crest (U) [!].smc",
+      "label": "Demon's Crest (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7C3FF750|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Do-Re-Mi Fantasy - Milon no Dokidoki Daibouken (Japan).zip#Do-Re-Mi Fantasy - Milon no Dokidoki Daibouken (Japan).sfc",
+      "label": "Do-Re-Mi Fantasy - Milon no Dokidoki Daibouken (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9F2C2633|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Donkey Kong Country (USA).zip#Donkey Kong Country (USA).sfc",
+      "label": "Donkey Kong Country (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C946DCA0|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Donkey Kong Country 2 - Diddy's Kong Quest (U) (V1.1) [!].zip#Donkey Kong Country 2 - Diddy's Kong Quest (U) (V1.1) [!].smc",
+      "label": "Donkey Kong Country 2 - Diddy's Kong Quest (U) (V1.1) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CDBBF300|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Donkey Kong Country 3 - Dixie Kong's Double Trouble (U) [!].zip#Donkey Kong Country 3 - Dixie Kong's Double Trouble (U) [!].smc",
+      "label": "Donkey Kong Country 3 - Dixie Kong's Double Trouble (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C7188FED|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Double Dragon V - The Shadow Falls (USA).zip#Double Dragon V - The Shadow Falls (USA).sfc",
+      "label": "Double Dragon V - The Shadow Falls (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "98A96AE8|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Dr. Mario (J) (NP).zip#Dr. Mario (J) (NP).fig",
+      "label": "Dr. Mario (J) (NP)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "714B6F6F|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Dragon Quest V - Tenkuu no Hanayome (Japan) [En by DeJap+Partial v2.01Final] (~Dragon Quest V - Bride of Heaven).zip#Dragon Quest V - Tenkuu no Hanayome (Japan) [En by DeJap+Partial v2.01Final] (~Dragon Quest V - Bride of Heaven).sfc",
+      "label": "Dragon Quest V - Tenkuu no Hanayome (Japan) [En by DeJap+Partial v2.01Final] (~Dragon Quest V - Bride of Heaven)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9400CB3C|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Dragon Quest VI - Maboroshi no Daichi (Japan) [En by NoPrgress v0.90Beta2] (~Dragon Quest VI - Land of Illusion).zip#Dragon Quest VI - Maboroshi no Daichi (Japan) [En by NoPrgress v0.90Beta2] (~Dragon Quest VI - Land of Illusion).sfc",
+      "label": "Dragon Quest VI - Maboroshi no Daichi (Japan) [En by NoPrgress v0.90Beta2] (~Dragon Quest VI - Land of Illusion)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "276D9893|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Dragon Quest VI - Maboroshi no Daichi (Japan).zip#Dragon Quest VI - Maboroshi no Daichi (Japan).sfc",
+      "label": "Dragon Quest VI - Maboroshi no Daichi (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "33304519|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/E.V.O. Search for Eden (U).zip#E.V.O. Search for Eden (U).smc",
+      "label": "E.V.O. Search for Eden (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BD44C96D|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/EarthBound (USA).zip#EarthBound (USA).sfc",
+      "label": "EarthBound (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DC9BB451|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Earthworm Jim (USA).zip#Earthworm Jim (USA).sfc",
+      "label": "Earthworm Jim (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3A4A47EB|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Earthworm Jim 2 (USA).zip#Earthworm Jim 2 (USA).sfc",
+      "label": "Earthworm Jim 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "393DE197|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/F-ZERO (U) [!].zip#F-ZERO (U) [!].smc",
+      "label": "F-ZERO (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A225CB58|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Farland Story (Japan).zip#Farland Story (Japan).sfc",
+      "label": "Farland Story (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0ED3DCF2|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Farland Story 2 (Japan).zip#Farland Story 2 (Japan).sfc",
+      "label": "Farland Story 2 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1CF58DE9|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Final Fantasy II (USA).zip#Final Fantasy II (USA).sfc",
+      "label": "Final Fantasy II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "65D0A825|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Final Fantasy III (U) (V1.1) [!].zip#Final Fantasy III (U) (V1.1) [!].smc",
+      "label": "Final Fantasy III (U) (V1.1) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "326CF6A2|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Final Fantasy V (English v2.1).zip#Final Fantasy V (English v2.1).sfc",
+      "label": "Final Fantasy V (English v2.1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3865D903|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Final Fantasy V (J).zip#Final Fantasy V (J).smc",
+      "label": "Final Fantasy V (J)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4D6AFC7F|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Final Fantasy V (Japan) [En by RPGe v1.1].zip#Final Fantasy V (Japan) [En by RPGe v1.1].sfc",
+      "label": "Final Fantasy V (Japan) [En by RPGe v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "17444605|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Final Fantasy V - GBA Script Port (v1.16).zip#Final Fantasy V - GBA Script Port (v1.16).sfc",
+      "label": "Final Fantasy V - GBA Script Port (v1.16)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B738FC6A|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Fire Emblem - Monshou no Nazo (Japan) [En by RPGuy96 v0.98] (~Fire Emblem - Mystery of the Emblem).zip#Fire Emblem - Monshou no Nazo (Japan) [En by RPGuy96 v0.98] (~Fire Emblem - Mystery of the Emblem).sfc",
+      "label": "Fire Emblem - Monshou no Nazo (Japan) [En by RPGuy96 v0.98] (~Fire Emblem - Mystery of the Emblem)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3E9AA21A|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Fire Emblem - Seisen no Keifu (Japan) [En by Dark Twilkitri Net v0.87d] (~Fire Emblem - Genealogy of the Holy War).zip#Fire Emblem - Seisen no Keifu (Japan) [En by Dark Twilkitri Net v0.87d] (~Fire Emblem - Genealogy of the Holy War).sfc",
+      "label": "Fire Emblem - Seisen no Keifu (Japan) [En by Dark Twilkitri Net v0.87d] (~Fire Emblem - Genealogy of the Holy War)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "653E31FC|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Fire Emblem - Seisen no Keifu (Japan).zip#Fire Emblem - Seisen no Keifu (Japan).sfc",
+      "label": "Fire Emblem - Seisen no Keifu (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DC0D8CF9|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Fire Emblem - Seisen no Keifu (Naga - Beta 7).zip#Fire Emblem - Seisen no Keifu (Naga - Beta 7).sfc",
+      "label": "Fire Emblem - Seisen no Keifu (Naga - Beta 7)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0939AF26|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Fire Emblem - Thracia 776 (Japan) (T+Eng Cirosan 1.04).zip#Fire Emblem - Thracia 776 (Japan) (T+Eng Cirosan 1.04).sfc",
+      "label": "Fire Emblem - Thracia 776 (Japan) (T+Eng Cirosan 1.04)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "17F75FD7|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Fire Emblem - Thracia 776 (Japan).zip#Fire Emblem - Thracia 776 (Japan).sfc",
+      "label": "Fire Emblem - Thracia 776 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FC519952|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Fire Emblem 4 English (Gharnef).zip#Fire Emblem 4 English (Gharnef).smc",
+      "label": "Fire Emblem 4 English (Gharnef)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "004A18A1|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Firemen, The (USA) (Proto).zip#Firemen, The (USA) (Proto).sfc",
+      "label": "Firemen, The (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B9C82442|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Front Mission (Japan) [En by FH v1.0b].zip#Front Mission (Japan) [En by FH v1.0b].sfc",
+      "label": "Front Mission (Japan) [En by FH v1.0b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2B4CD5A3|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Fushigi no Dungeon 2 - Fuurai no Shiren (English v1.0)[Aeon Genesis].zip#Fushigi no Dungeon 2 - Fuurai no Shiren (English v1.0)[Aeon Genesis].sfc",
+      "label": "Fushigi no Dungeon 2 - Fuurai no Shiren (English v1.0)[Aeon Genesis]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F9789079|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Fushigi no Dungeon 2 - Fuurai no Shiren (J) (V1.1) (NP) [!].zip#Fushigi no Dungeon 2 - Fuurai no Shiren (J) (V1.1) (NP) [!].smc",
+      "label": "Fushigi no Dungeon 2 - Fuurai no Shiren (J) (V1.1) (NP) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "824AA6B5|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Gemfire (USA).zip#Gemfire (USA).sfc",
+      "label": "Gemfire (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EE801A54|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Genghis Khan II - Clan of the Gray Wolf (USA).zip#Genghis Khan II - Clan of the Gray Wolf (USA).sfc",
+      "label": "Genghis Khan II - Clan of the Gray Wolf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D7875512|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Goof Troop (USA).zip#Goof Troop (USA).sfc",
+      "label": "Goof Troop (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4AAFA462|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Gradius III (USA).zip#Gradius III (USA).sfc",
+      "label": "Gradius III (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CD973979|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Hagane - The Final Conflict (USA).zip#Hagane - The Final Conflict (USA).sfc",
+      "label": "Hagane - The Final Conflict (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8E0A7034|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Harvest Moon (USA).zip#Harvest Moon (USA).sfc",
+      "label": "Harvest Moon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F829129E|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Hook (USA).zip#Hook (USA).sfc",
+      "label": "Hook (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0C572EF0|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Illusion of Gaia (U).zip#Illusion of Gaia (U).smc",
+      "label": "Illusion of Gaia (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AF550719|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Jungle Book, The (USA).zip#Jungle Book, The (USA).sfc",
+      "label": "Jungle Book, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3511EFB3|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Killer Instinct (USA).zip#Killer Instinct (USA).sfc",
+      "label": "Killer Instinct (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "252C1DA7|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Kirby Super Star (U) [!].zip#Kirby Super Star (U) [!].smc",
+      "label": "Kirby Super Star (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "89D0F7DC|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Kirby's Avalanche (U) [!].zip#Kirby's Avalanche (U) [!].smc",
+      "label": "Kirby's Avalanche (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5F3EBFC1|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Kirby's Dream Course (U) [!].zip#Kirby's Dream Course (U) [!].smc",
+      "label": "Kirby's Dream Course (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "12BD43A9|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Kirby's Dream Land 3 (USA).zip#Kirby's Dream Land 3 (USA).sfc",
+      "label": "Kirby's Dream Land 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EC8A48F6|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Knights of the Round (USA).zip#Knights of the Round (USA).sfc",
+      "label": "Knights of the Round (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AAA82126|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Langrisser, Der (Japan) (Rev 1) [En by Byuu+D v1.02].zip#Langrisser, Der (Japan) (Rev 1) [En by Byuu+D v1.02].sfc",
+      "label": "Langrisser, Der (Japan) (Rev 1) [En by Byuu+D v1.02]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "43C0CAA9|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Last Bible III (English v7).zip#Last Bible III (English v7).sfc",
+      "label": "Last Bible III (English v7)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B3CDDA23|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Last Bible III (Japan).zip#Last Bible III (Japan).sfc",
+      "label": "Last Bible III (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5F1D73D7|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Legend of Zelda, The - A Link to the Past (Germany).zip#Legend of Zelda, The - A Link to the Past (Germany).sfc",
+      "label": "Legend of Zelda, The - A Link to the Past (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6A6C2091|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Legend of Zelda, The - A Link to the Past (USA).zip#Legend of Zelda, The - A Link to the Past (USA).sfc",
+      "label": "Legend of Zelda, The - A Link to the Past (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "777AAC2F|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Lion King, The (USA).zip#Lion King, The (USA).sfc",
+      "label": "Lion King, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C8FBFAA8|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Live A Live (Japan) [En by Aeon Genesis v2.0Deluxe].zip#Live A Live (Japan) [En by Aeon Genesis v2.0Deluxe].sfc",
+      "label": "Live A Live (Japan) [En by Aeon Genesis v2.0Deluxe]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5AD071F3|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Lost Vikings, The (USA).zip#Lost Vikings, The (USA).sfc",
+      "label": "Lost Vikings, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6838BE08|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Lufia & The Fortress of Doom (USA).zip#Lufia & The Fortress of Doom (USA).sfc",
+      "label": "Lufia & The Fortress of Doom (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5E1AA1A6|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Lufia II - Rise of the Sinistrals (USA).zip#Lufia II - Rise of the Sinistrals (USA).sfc",
+      "label": "Lufia II - Rise of the Sinistrals (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "20F2AC29|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Magic Sword (USA).zip#Magic Sword (USA).sfc",
+      "label": "Magic Sword (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "27325E4D|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Magical Quest Starring Mickey Mouse, The (USA).zip#Magical Quest Starring Mickey Mouse, The (USA).sfc",
+      "label": "Magical Quest Starring Mickey Mouse, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "10874C70|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Majin Tensei (English v4).zip#Majin Tensei (English v4).sfc",
+      "label": "Majin Tensei (English v4)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "50342DB2|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Majin Tensei (Japan).zip#Majin Tensei (Japan).sfc",
+      "label": "Majin Tensei (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C1B5D46A|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Mario no Super Picross (English v1.5).zip#Mario no Super Picross (English v1.5).sfc",
+      "label": "Mario no Super Picross (English v1.5)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E9F1CEB9|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Mario no Super Picross (Japan).zip#Mario no Super Picross (Japan).sfc",
+      "label": "Mario no Super Picross (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F64C5AA0|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Mario Paint (Japan, USA).zip#Mario Paint (Japan, USA).sfc",
+      "label": "Mario Paint (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "38C9626C|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Mega Man VII (U).zip#Mega Man VII (U).smc",
+      "label": "Mega Man VII (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "30D835DD|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Mega Man X 2 (U).zip#Mega Man X 2 (U).smc",
+      "label": "Mega Man X 2 (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "947B0355|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Mega Man X 3 (U).zip#Mega Man X 3 (U).smc",
+      "label": "Mega Man X 3 (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "97F99192|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Megaman X (USA).zip#Megaman X (USA).sfc",
+      "label": "Megaman X (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1033EBA4|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Might and Magic III - Isles of Terra (USA).zip#Might and Magic III - Isles of Terra (USA).sfc",
+      "label": "Might and Magic III - Isles of Terra (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8AF25E7E|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Mortal Kombat (USA).zip#Mortal Kombat (USA).sfc",
+      "label": "Mortal Kombat (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DEF42945|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Mortal Kombat 3 (USA).zip#Mortal Kombat 3 (USA).sfc",
+      "label": "Mortal Kombat 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4E6AF725|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Mystic Quest Legend (Europe).zip#Mystic Quest Legend (Europe).sfc",
+      "label": "Mystic Quest Legend (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "45A7328F|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Ninja Gaiden Trilogy (USA).zip#Ninja Gaiden Trilogy (USA).sfc",
+      "label": "Ninja Gaiden Trilogy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "066FE797|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Phalanx - The Enforce Fighter A-144 (USA).zip#Phalanx - The Enforce Fighter A-144 (USA).sfc",
+      "label": "Phalanx - The Enforce Fighter A-144 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DC90A8AB|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Pilotwings (U) [!].zip#Pilotwings (U) [!].smc",
+      "label": "Pilotwings (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AD9FD5EA|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Pitfall - The Mayan Adventure (USA).zip#Pitfall - The Mayan Adventure (USA).sfc",
+      "label": "Pitfall - The Mayan Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "03E67D38|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Plok! (USA).zip#Plok! (USA).sfc",
+      "label": "Plok! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BBD678F6|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Pocky & Rocky (USA).zip#Pocky & Rocky (USA).sfc",
+      "label": "Pocky & Rocky (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2B0E7EA3|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Pocky & Rocky 2 (USA).zip#Pocky & Rocky 2 (USA).sfc",
+      "label": "Pocky & Rocky 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FC00BB1B|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Pop'n TwinBee - Rainbow Bell Adventures (Europe).zip#Pop'n TwinBee - Rainbow Bell Adventures (Europe).sfc",
+      "label": "Pop'n TwinBee - Rainbow Bell Adventures (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "91A03035|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Power Soukoban (Japan).zip#Power Soukoban (Japan).sfc",
+      "label": "Power Soukoban (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "39FBAA1E|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Prince of Persia (USA).zip#Prince of Persia (USA).sfc",
+      "label": "Prince of Persia (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "891BB2BB|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Push-Over (USA).zip#Push-Over (USA).sfc",
+      "label": "Push-Over (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FA06D5F5|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/R-Type III - The Third Lightning (USA).zip#R-Type III - The Third Lightning (USA).sfc",
+      "label": "R-Type III - The Third Lightning (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "642B656B|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Radical Dreamers - Nusume Nai Houseki (Japan) (BS) [En by Demiforce v1.4] (~Radical Dreamers - Le Tresor Interdit).zip#Radical Dreamers - Nusume Nai Houseki (Japan) (BS) [En by Demiforce v1.4] (~Radical Dreamers - Le Tresor Interdit).sfc",
+      "label": "Radical Dreamers - Nusume Nai Houseki (Japan) (BS) [En by Demiforce v1.4] (~Radical Dreamers - Le Tresor Interdit)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A2664B10|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Raiden Trad (USA).zip#Raiden Trad (USA).sfc",
+      "label": "Raiden Trad (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "02CE6C96|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Road Runner's Death Valley Rally (USA).zip#Road Runner's Death Valley Rally (USA).sfc",
+      "label": "Road Runner's Death Valley Rally (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5980D75D|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Robotrek (USA).zip#Robotrek (USA).sfc",
+      "label": "Robotrek (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7AD4AADC|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Rock n' Roll Racing (USA).zip#Rock n' Roll Racing (USA).sfc",
+      "label": "Rock n' Roll Racing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7D06F473|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Romance of the Three Kingdoms III - Dragon of Destiny (U).zip#Romance of the Three Kingdoms III - Dragon of Destiny (U).smc",
+      "label": "Romance of the Three Kingdoms III - Dragon of Destiny (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8CDF1DF1|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Romance of the Three Kingdoms IV - Wall of Fire (USA).zip#Romance of the Three Kingdoms IV - Wall of Fire (USA).sfc",
+      "label": "Romance of the Three Kingdoms IV - Wall of Fire (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "82AF5B69|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Romancing SaGa (J) (V1.1) [En by DDSTranslation v1.2].zip#Romancing SaGa (J) (V1.1) [En by DDSTranslation v1.2].smc",
+      "label": "Romancing SaGa (J) (V1.1) [En by DDSTranslation v1.2]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3B04E472|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Romancing SaGa (J) (V1.1).zip#Romancing SaGa (J) (V1.1).smc",
+      "label": "Romancing SaGa (J) (V1.1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9684526D|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Romancing SaGa 3 (Japan) [En by Mana Sword v0.30].zip#Romancing SaGa 3 (Japan) [En by Mana Sword v0.30].sfc",
+      "label": "Romancing SaGa 3 (Japan) [En by Mana Sword v0.30]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "42C664C2|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Rudra no Hihou (English v2.1b).zip#Rudra no Hihou (English v2.1b).sfc",
+      "label": "Rudra no Hihou (English v2.1b)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2D7BD150|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Rudra no Hihou (Japan).zip#Rudra no Hihou (Japan).sfc",
+      "label": "Rudra no Hihou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5D8CB7AC|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Sangokushi III (Hong Kong).zip#Sangokushi III (Hong Kong).sfc",
+      "label": "Sangokushi III (Hong Kong)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "30D3A7F4|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Secret of Evermore (USA).zip#Secret of Evermore (USA).sfc",
+      "label": "Secret of Evermore (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A5C0045E|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Secret of Mana (USA).zip#Secret of Mana (USA).sfc",
+      "label": "Secret of Mana (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D0176B24|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Seiken Densetsu 3 (Japan) [En by LNF+Neill Corlett+SoM2Freak v1.01].zip#Seiken Densetsu 3 (Japan) [En by LNF+Neill Corlett+SoM2Freak v1.01].sfc",
+      "label": "Seiken Densetsu 3 (Japan) [En by LNF+Neill Corlett+SoM2Freak v1.01]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7DBDE871|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Seiken Densetsu 3 (Japan).zip#Seiken Densetsu 3 (Japan).sfc",
+      "label": "Seiken Densetsu 3 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "863ED0B8|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Shadowrun (USA).zip#Shadowrun (USA).sfc",
+      "label": "Shadowrun (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3F34DFF0|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Shin Megami Tensei (Japan) [En by Aeon Genesis v1.0].zip#Shin Megami Tensei (Japan) [En by Aeon Genesis v1.0].sfc",
+      "label": "Shin Megami Tensei (Japan) [En by Aeon Genesis v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1AFE71A8|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Shin Megami Tensei II (Japan) [En by Aeon Genesis v1.0].zip#Shin Megami Tensei II (Japan) [En by Aeon Genesis v1.0].sfc",
+      "label": "Shin Megami Tensei II (Japan) [En by Aeon Genesis v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6A49A51A|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Side Pocket (USA).zip#Side Pocket (USA).sfc",
+      "label": "Side Pocket (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "597C2BFE|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/SimCity (USA).zip#SimCity (USA).sfc",
+      "label": "SimCity (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8AEDD3A1|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Soul Blazer (U) [!].zip#Soul Blazer (U) [!].smc",
+      "label": "Soul Blazer (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9B8198FA|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/SRWG - Masoukishin - The Lord of Elemental (English v1.05 Music Persistence).zip#SRWG - Masoukishin - The Lord of Elemental (English v1.05 Music Persistence).sfc",
+      "label": "SRWG - Masoukishin - The Lord of Elemental (English v1.05 Music Persistence)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "720C5A37|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/SRWG - Masoukishin - The Lord of Elemental (English v1.05).zip#SRWG - Masoukishin - The Lord of Elemental (English v1.05).sfc",
+      "label": "SRWG - Masoukishin - The Lord of Elemental (English v1.05)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BD1924D2|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Star Fox (USA).zip#Star Fox (USA).sfc",
+      "label": "Star Fox (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0BAE0941|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Star Fox 2 (SNES Classic).zip#Star Fox 2 (SNES Classic).sfc",
+      "label": "Star Fox 2 (SNES Classic)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "87653732|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Star Ocean (J) [!].zip#Star Ocean (J) [!].smc",
+      "label": "Star Ocean (J) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3DBDFDBF|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Star Ocean (Japan) [En by DeJap v1.0].zip#Star Ocean (Japan) [En by DeJap v1.0].sfc",
+      "label": "Star Ocean (Japan) [En by DeJap v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6BA9E08D|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Street Fighter II - The World Warrior (U) [!].zip#Street Fighter II - The World Warrior (U) [!].smc",
+      "label": "Street Fighter II - The World Warrior (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "163940FD|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Street Fighter II Turbo (U).zip#Street Fighter II Turbo (U).smc",
+      "label": "Street Fighter II Turbo (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ED0366F2|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Sunset Riders (USA).zip#Sunset Riders (USA).sfc",
+      "label": "Sunset Riders (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "52ADA404|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Adventure Island (USA).zip#Super Adventure Island (USA).sfc",
+      "label": "Super Adventure Island (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DCD46848|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Adventure Island II (USA).zip#Super Adventure Island II (USA).sfc",
+      "label": "Super Adventure Island II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "52FE16FD|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Bomberman (USA).zip#Super Bomberman (USA).sfc",
+      "label": "Super Bomberman (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "63A8E2C6|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Castlevania IV (USA).zip#Super Castlevania IV (USA).sfc",
+      "label": "Super Castlevania IV (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B64FFB12|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Double Dragon (USA).zip#Super Double Dragon (USA).sfc",
+      "label": "Super Double Dragon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "09ED12A5|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Famicom Wars (Japan) (NP) (En by Optiroc v1.0).zip#Super Famicom Wars (Japan) (NP) (En by Optiroc v1.0).sfc",
+      "label": "Super Famicom Wars (Japan) (NP) (En by Optiroc v1.0)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "41850B51|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Famicom Wars (Japan) (NP).zip#Super Famicom Wars (Japan) (NP).sfc",
+      "label": "Super Famicom Wars (Japan) (NP)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D6EACBEA|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Gomoku Narabe - Renju (J).zip#Super Gomoku Narabe - Renju (J).smc",
+      "label": "Super Gomoku Narabe - Renju (J)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3076FC23|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Mario All Stars & World (US).zip#Super Mario All Stars & World (US).smc",
+      "label": "Super Mario All Stars & World (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2FFDD723|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Mario Kart (USA).zip#Super Mario Kart (USA).sfc",
+      "label": "Super Mario Kart (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CD80DB86|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Mario RPG (US).zip#Super Mario RPG (US).smc",
+      "label": "Super Mario RPG (US)",
+      "core_path": "/home/ark/.config/retroarch/cores/snes9x2010_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x 2010)",
+      "crc32": "723916AA|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Mario World (U) [!].zip#Super Mario World (U) [!].smc",
+      "label": "Super Mario World (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A31BEAD4|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Metroid (Japan, USA) (En,Ja).zip#Super Metroid (Japan, USA) (En,Ja).sfc",
+      "label": "Super Metroid (Japan, USA) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D63ED5F8|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Off Road (USA).zip#Super Off Road (USA).sfc",
+      "label": "Super Off Road (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FE263383|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Robot Taisen EX (English Patched v1.00) Persistent Music).zip#Super Robot Taisen EX (English Patched v1.00) Persistent Music).sfc",
+      "label": "Super Robot Taisen EX (English Patched v1.00) Persistent Music)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3C11E7FA|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Robot Taisen EX (English Patched v1.00).zip#Super Robot Taisen EX (English Patched v1.00).sfc",
+      "label": "Super Robot Taisen EX (English Patched v1.00)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3C11E7FA|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Robot Taisen EX (Japan).zip#Super Robot Taisen EX (Japan).sfc",
+      "label": "Super Robot Taisen EX (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "239621A0|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Robot Taisen Gaiden - Masoukishin - The Lord of Elemental (Japan).zip#Super Robot Taisen Gaiden - Masoukishin - The Lord of Elemental (Japan).sfc",
+      "label": "Super Robot Taisen Gaiden - Masoukishin - The Lord of Elemental (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EBADC924|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Soukoban (Japan).zip#Super Soukoban (Japan).sfc",
+      "label": "Super Soukoban (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A9F78E92|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Street Fighter II - The New Challengers (U).zip#Super Street Fighter II - The New Challengers (U).smc",
+      "label": "Super Street Fighter II - The New Challengers (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8F6A918B|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super SWIV (Europe).zip#Super SWIV (Europe).sfc",
+      "label": "Super SWIV (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B6D94361|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Tennis (USA).zip#Super Tennis (USA).sfc",
+      "label": "Super Tennis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8D383776|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Tetris 3 (Japan).zip#Super Tetris 3 (Japan).sfc",
+      "label": "Super Tetris 3 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "329024C7|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Super Turrican (USA).zip#Super Turrican (USA).sfc",
+      "label": "Super Turrican (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3A7E8215|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Tactics Ogre - Let Us Cling Together (J) (V1.2) [En by Aeon Genesis v1.00b].zip#Tactics Ogre - Let Us Cling Together (J) (V1.2) [En by Aeon Genesis v1.00b].smc",
+      "label": "Tactics Ogre - Let Us Cling Together (J) (V1.2) [En by Aeon Genesis v1.00b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "61C28F72|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Tactics Ogre - Let Us Cling Together (J) (V1.2).zip#Tactics Ogre - Let Us Cling Together (J) (V1.2).smc",
+      "label": "Tactics Ogre - Let Us Cling Together (J) (V1.2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "12F0A699|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Taikou Risshiden (Japan).zip#Taikou Risshiden (Japan).sfc",
+      "label": "Taikou Risshiden (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A2A0F40F|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Teenage Mutant Hero Turtles IV - Turtles in Time (Europe).zip#Teenage Mutant Hero Turtles IV - Turtles in Time (Europe).sfc",
+      "label": "Teenage Mutant Hero Turtles IV - Turtles in Time (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B0A3441E|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Terranigma (E) [!].zip#Terranigma (E) [!].smc",
+      "label": "Terranigma (E) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "323AFA72|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Tetris & Dr. Mario (USA).zip#Tetris & Dr. Mario (USA).sfc",
+      "label": "Tetris & Dr. Mario (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6C852EF3|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Tetris 2 (USA).zip#Tetris 2 (USA).sfc",
+      "label": "Tetris 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CE3392B1|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Tetris Attack (USA) (En,Ja).zip#Tetris Attack (USA) (En,Ja).sfc",
+      "label": "Tetris Attack (USA) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6C128210|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Tiny Toon Adventures - Buster Busts Loose! (USA).zip#Tiny Toon Adventures - Buster Busts Loose! (USA).sfc",
+      "label": "Tiny Toon Adventures - Buster Busts Loose! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AB48D27A|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Tom & Jerry (USA).zip#Tom & Jerry (USA).sfc",
+      "label": "Tom & Jerry (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8B1DAFBB|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Top Gear (USA).zip#Top Gear (USA).sfc",
+      "label": "Top Gear (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D34C49B7|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Treasure Hunter G (Japan).zip#Treasure Hunter G (Japan).sfc",
+      "label": "Treasure Hunter G (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3CCEED49|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Trials of Mana (U) [3-Player Edition].zip#Trials of Mana (U) [3-Player Edition].smc",
+      "label": "Trials of Mana (U) [3-Player Edition]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CDF16C8F|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Trials of Mana (U).zip#Trials of Mana (U).smc",
+      "label": "Trials of Mana (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9743DC0E|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Twisted Tales of Spike McFang, The (USA).zip#Twisted Tales of Spike McFang, The (USA).sfc",
+      "label": "Twisted Tales of Spike McFang, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8C2068D1|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/U.N. Squadron (USA).zip#U.N. Squadron (USA).sfc",
+      "label": "U.N. Squadron (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "231F0F67|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Umihara Kawase (Japan) [En by Satsu v0.90].zip#Umihara Kawase (Japan) [En by Satsu v0.90].sfc",
+      "label": "Umihara Kawase (Japan) [En by Satsu v0.90]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5410108D|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Umihara Kawase (Japan).zip#Umihara Kawase (Japan).sfc",
+      "label": "Umihara Kawase (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "393CCCA2|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Uncharted Waters (U).zip#Uncharted Waters (U).smc",
+      "label": "Uncharted Waters (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3F4AB70E|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Uncharted Waters - New Horizons (U).zip#Uncharted Waters - New Horizons (U).smc",
+      "label": "Uncharted Waters - New Horizons (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "808A2B46|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Wario's Woods (USA).zip#Wario's Woods (USA).sfc",
+      "label": "Wario's Woods (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2D1004F1|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Wizardry V - Heart of the Maelstrom (USA).zip#Wizardry V - Heart of the Maelstrom (USA).sfc",
+      "label": "Wizardry V - Heart of the Maelstrom (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D8FDDD76|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/World Soccer '94 - Road to Glory (USA).zip#World Soccer '94 - Road to Glory (USA).sfc",
+      "label": "World Soccer '94 - Road to Glory (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0AAE0A10|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Wrecking Crew '98 (J) (NP).zip#Wrecking Crew '98 (J) (NP).smc",
+      "label": "Wrecking Crew '98 (J) (NP)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "69AA74CE|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Yoshi's Island (US).zip#Yoshi's Island (US).smc",
+      "label": "Yoshi's Island (US)",
+      "core_path": "/home/ark/.config/retroarch/cores/snes9x2010_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x 2010)",
+      "crc32": "F97EE5FC|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Ys IV - Mask of the Sun (Japan) [En by Aeon Genesis v2.0].zip#Ys IV - Mask of the Sun (Japan) [En by Aeon Genesis v2.0].sfc",
+      "label": "Ys IV - Mask of the Sun (Japan) [En by Aeon Genesis v2.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1ADD47F0|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/roms/snes/Ys V - Kefin, The Lost City of Sand.zip#Ys V - Kefin, The Lost City of Sand.smc",
+      "label": "Ys V - Kefin, The Lost City of Sand",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BEBE867E|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+  ]
+}

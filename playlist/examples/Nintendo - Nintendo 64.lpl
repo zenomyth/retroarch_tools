@@ -1,0 +1,171 @@
+{
+  "version": "1.5",
+  "default_core_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RetroArch\\cores\\parallel_n64_libretro.dll",
+  "default_core_name": "ParaLLEl N64",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "D:\\vg\\n64_rom\\Banjo-Kazooie (USA).zip#Banjo-Kazooie (USA).n64",
+      "label": "Banjo-Kazooie (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4FD43199|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_rom\\Bust-A-Move '99 (USA).zip#Bust-A-Move '99 (USA).n64",
+      "label": "Bust-A-Move '99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2A95290F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_rom\\Conker's Bad Fur Day (USA).zip#Conker's Bad Fur Day (USA).n64",
+      "label": "Conker's Bad Fur Day (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6ACDB3FC|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_romD:onkey Kong 64 (Europe) (En,Fr,De,Es).zip#Donkey Kong 64 (Europe) (En,Fr,De,Es).z64",
+      "label": "Donkey Kong 64 (Europe) (En,Fr,De,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A28C71C6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_rom\\FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv).zip#FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv).n64",
+      "label": "FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2D49F99A|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_rom\\Fushigi no Dungeon - Fuurai no Shiren 2 (J) [!].zip#Fushigi no Dungeon - Fuurai no Shiren 2 (J) [!].z64",
+      "label": "Fushigi no Dungeon - Fuurai no Shiren 2 (J) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2AA6D2A1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_rom\\GoldenEye 007 (Europe).zip#GoldenEye 007 (Europe).z64",
+      "label": "GoldenEye 007 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9EC14AEB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_rom\\International Superstar Soccer 64 (Europe).zip#International Superstar Soccer 64 (Europe).n64",
+      "label": "International Superstar Soccer 64 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "662DA098|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_rom\\Legend of Zelda, The - Majora's Mask (USA).zip#Legend of Zelda, The - Majora's Mask (USA).n64",
+      "label": "Legend of Zelda, The - Majora's Mask (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3EE3F2D1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_rom\\Legend of Zelda, The - Ocarina of Time (Europe) (Debug) (GameCube).zip#Legend of Zelda, The - Ocarina of Time (Europe) (Debug) (GameCube).z64",
+      "label": "Legend of Zelda, The - Ocarina of Time (Europe) (Debug) (GameCube)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5D1B2996|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_rom\\Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev A).zip#Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev A).n64",
+      "label": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1)",
+      "core_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RetroArch\\cores\\parallel_n64_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "AB0FFBAE|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_rom\\Mario Kart 64 (USA).zip#Mario Kart 64 (USA).n64",
+      "label": "Mario Kart 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2BCEE11C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_rom\\Mario Tennis (Europe).zip#Mario Tennis (Europe).z64",
+      "label": "Mario Tennis (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "29AA5DF4|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_rom\\Namco Museum 64 (U) [!].zip#Namco Museum 64 (U) [!].z64",
+      "label": "Namco Museum 64 (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CE361F92|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_rom\\Paper Mario (USA).zip#Paper Mario (USA).n64",
+      "label": "Paper Mario (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D56D1C89|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_rom\\Perfect Dark (USA) (Rev 1).zip#Perfect Dark (USA) (Rev 1).z64",
+      "label": "Perfect Dark (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4C1677F7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_rom\\Shiren 2 Oni Invasion! Shiren Castle! (English v1.02).7z#CDRomance.url",
+      "label": "Shiren 2 Oni Invasion! Shiren Castle! (English v1.02)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6C2AAE12|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_rom\\StarCraft 64 (U) [!].zip#StarCraft 64 (U) [!].z64",
+      "label": "StarCraft 64 (U) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4E4C7EC9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_rom\\Super Mario 64 (USA).zip#Super Mario 64 (USA).n64",
+      "label": "Super Mario 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "42C43204|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\vg\\n64_rom\\Wave Race 64 (USA) (Rev A).zip#Wave Race 64 (USA) (Rev A).n64",
+      "label": "Wave Race 64 (USA) (Rev A)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DD2BB7B6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    }
+  ]
+}

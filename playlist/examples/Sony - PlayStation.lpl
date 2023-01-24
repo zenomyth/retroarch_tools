@@ -1,0 +1,83 @@
+{
+  "version": "1.5",
+  "default_core_path": "/home/ark/.config/retroarch/cores/pcsx_rearmed_libretro.so",
+  "default_core_name": "Sony - PlayStation (PCSX ReARMed)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/roms/psx/Bust-a-Move '99 [U] [SLUS-00725]/BUSTAMOVE99.cue",
+      "label": "Bust-A-Move '99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DC3AAB55|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/roms/psx/Castlevania - Symphony of the Night (USA)/Castlevania - Symphony of the Night (USA).cue",
+      "label": "Castlevania - Symphony of the Night (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "05BE47B2|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/roms/psx/Final fantasy IX/FF9DISC1.cue",
+      "label": "Final Fantasy IX (USA) (Disc 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "49521342|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/roms/psx/Final fantasy IX/FF9DISC2.cue",
+      "label": "Final Fantasy IX (USA) (Disc 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DFEF08C8|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/roms/psx/Final fantasy IX/FF9DISC3.cue",
+      "label": "Final Fantasy IX (USA) (Disc 3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CDC64CAC|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/roms/psx/Final fantasy IX/FF9DISC4.cue",
+      "label": "Final Fantasy IX (USA) (Disc 4)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "15A5E12B|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/roms/psx/Gran Turismo/Gran Turismo (USA) (v1.1).cue",
+      "label": "Gran Turismo (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2B3845AA|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/roms/psx/Klonoa - Door to Phantomile (USA)/Klonoa - Door to Phantomile (USA).cue",
+      "label": "Klonoa - Door to Phantomile (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "77E279E8|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/roms/psx/World of Dragon Warrior - Torneko - The Last Hope (USA)/World of Dragon Warrior - Torneko - The Last Hope (USA).cue",
+      "label": "World of Dragon Warrior - Torneko - The Last Hope (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "508A4A7F|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    }
+  ]
+}

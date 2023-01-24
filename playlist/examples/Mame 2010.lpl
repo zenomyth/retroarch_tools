@@ -1,0 +1,123 @@
+{
+  "version": "1.5",
+  "default_core_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RetroArch\\cores\\mame2010_libretro.dll",
+  "default_core_name": "MAME 2010 (0.139)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "D:\\vg\\mame_0_139\\1943.zip",
+      "label": "1943: The Battle of Midway (Euro)",
+      "core_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RetroArch\\cores\\mame2010_libretro.dll",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Mame 2010.lpl"
+    },
+    {
+      "path": "D:\\vg\\mame_0_139\\arkanoidu.zip",
+      "label": "Arkanoid (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Mame 2010.lpl"
+    },
+    {
+      "path": "D:\\vg\\mame_0_139\\asteroid.zip",
+      "label": "Asteroids (rev 4)",
+      "core_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RetroArch\\cores\\mame2010_libretro.dll",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Mame 2010.lpl"
+    },
+    {
+      "path": "D:\\vg\\mame_0_139\\captcommr1.zip",
+      "label": "Captain Commando (World 911014)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Mame 2010.lpl"
+    },
+    {
+      "path": "D:\\vg\\mame_0_139\\contra.zip",
+      "label": "Contra (US, Set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Mame 2010.lpl"
+    },
+    {
+      "path": "D:\\vg\\mame_0_139\\hook.zip",
+      "label": "Hook (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Mame 2010.lpl"
+    },
+    {
+      "path": "D:\\vg\\mame_0_139\\knights.zip",
+      "label": "Knights of the Round (World 911127)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Mame 2010.lpl"
+    },
+    {
+      "path": "D:\\vg\\mame_0_139\\punisher.zip",
+      "label": "The Punisher (World 930422)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Mame 2010.lpl"
+    },
+    {
+      "path": "D:\\vg\\mame_0_139\\qix.zip",
+      "label": "Qix (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Mame 2010.lpl"
+    },
+    {
+      "path": "D:\\vg\\mame_0_139\\robotron.zip",
+      "label": "Robotron (Solid Blue label)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Mame 2010.lpl"
+    },
+    {
+      "path": "D:\\vg\\mame_0_139\\rushatck.zip",
+      "label": "Rush'n Attack (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Mame 2010.lpl"
+    },
+    {
+      "path": "D:\\vg\\mame_0_139\\sf2ceua.zip",
+      "label": "Street Fighter II': Champion Edition (USA 920313)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Mame 2010.lpl"
+    },
+    {
+      "path": "D:\\vg\\mame_0_139\\sicv.zip",
+      "label": "Space Invaders (CV Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Mame 2010.lpl"
+    },
+    {
+      "path": "D:\\vg\\mame_0_139\\wof.zip",
+      "label": "Warriors of Fate (World 921002)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Mame 2010.lpl"
+    }
+  ]
+}

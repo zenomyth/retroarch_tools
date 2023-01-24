@@ -1,0 +1,419 @@
+{
+  "version": "1.4",
+  "default_core_path": "/home/ark/.config/retroarch/cores/gambatte_libretro.so",
+  "default_core_name": "Nintendo - Game Boy / Color (Gambatte)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/roms/gbc/Adventures of Lolo (U) (!).zip#Adventures of Lolo (U) (!).gb",
+      "label": "Adventures of Lolo (U) (!)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "176D2EEB|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Bust-A-Move Millennium (USA, Europe).zip#Bust-A-Move Millennium (USA, Europe).gbc",
+      "label": "Bust-A-Move Millennium (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F8DA0C4A|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Castlevania II - Belmont's Revenge (USA, Europe).zip#Castlevania II - Belmont's Revenge (USA, Europe).gb",
+      "label": "Castlevania II - Belmont's Revenge (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8875C8FE|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Castlevania Legends (USA, Europe).zip#Castlevania Legends (USA, Europe).gb",
+      "label": "Castlevania Legends (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AD9C17FB|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Contra - The Alien Wars (USA).zip#Contra - The Alien Wars (USA).gb",
+      "label": "Contra - The Alien Wars (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F1C81EB0|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Deja Vu I & II - The Casebooks of Ace Harding (USA).zip#Deja Vu I & II - The Casebooks of Ace Harding (USA).gbc",
+      "label": "Deja Vu I & II - The Casebooks of Ace Harding (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AD0937F4|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Dragon Warrior III (USA).zip#Dragon Warrior III (USA).gbc",
+      "label": "Dragon Warrior III (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0FD9C59C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Dragon Warrior Monsters (USA).zip#Dragon Warrior Monsters (USA).gbc",
+      "label": "Dragon Warrior Monsters (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E56C35B1|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Dragon Warrior Monsters 2 - Cobi's Journey (USA).zip#Dragon Warrior Monsters 2 - Cobi's Journey (USA).gbc",
+      "label": "Dragon Warrior Monsters 2 - Cobi's Journey (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AB7BFDD5|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Final Fantasy Adventure (USA).zip#Final Fantasy Adventure (USA).gb",
+      "label": "Final Fantasy Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "18C78B3A|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Final Fantasy Legend II (USA).zip#Final Fantasy Legend II (USA).gb",
+      "label": "Final Fantasy Legend II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "58314182|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Final Fantasy Legend III (USA).zip#Final Fantasy Legend III (USA).gb",
+      "label": "Final Fantasy Legend III (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3E454710|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Final Fantasy Legend, The (USA).zip#Final Fantasy Legend, The (USA).gb",
+      "label": "Final Fantasy Legend, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8046148F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Fushigi no Dungeon - Fuurai no Shiren GB - Tsukikage Mura no Kaibutsu (Japan).zip#Fushigi no Dungeon - Fuurai no Shiren GB - Tsukikage Mura no Kaibutsu (Japan).gb",
+      "label": "Fushigi no Dungeon - Fuurai no Shiren GB - Tsukikage Mura no Kaibutsu (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2962AFB4|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou (Japan).zip#Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou (Japan).gbc",
+      "label": "Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2C97E90F|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Game & Watch Gallery (USA) (Rev 1) (SGB Enhanced).zip#Game & Watch Gallery (USA) (Rev 1) (SGB Enhanced).gb",
+      "label": "Game & Watch Gallery (USA) (Rev 1) (SGB Enhanced)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9E6CDC96|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Game & Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible).zip#Game & Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible).gbc",
+      "label": "Game & Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "969C8961|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Game & Watch Gallery 3 (USA, Europe) (SGB Enhanced) (GB Compatible).zip#Game & Watch Gallery 3 (USA, Europe) (SGB Enhanced) (GB Compatible).gbc",
+      "label": "Game & Watch Gallery 3 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1AC625DA|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Heroes of Might and Magic (USA) (En,Fr,De).zip#Heroes of Might and Magic (USA) (En,Fr,De).gbc",
+      "label": "Heroes of Might and Magic (USA) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BB0672A6|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Heroes of Might and Magic II (USA) (En,Fr,De).zip#Heroes of Might and Magic II (USA) (En,Fr,De).gbc",
+      "label": "Heroes of Might and Magic II (USA) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "53156D4D|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Kirby Tilt 'n' Tumble (USA).zip#Kirby Tilt 'n' Tumble (USA).gbc",
+      "label": "Kirby Tilt 'n' Tumble (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E541ACF1|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Kirby's Dream Land (USA, Europe).zip#Kirby's Dream Land (USA, Europe).gb",
+      "label": "Kirby's Dream Land (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "40F25740|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Kirby's Dream Land 2 (USA, Europe).zip#Kirby's Dream Land 2 (USA, Europe).gb",
+      "label": "Kirby's Dream Land 2 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8DC07C35|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Legend of Zelda, The - Link's Awakening DX (USA, Europe).zip#Legend of Zelda, The - Link's Awakening DX (USA, Europe).gbc",
+      "label": "Legend of Zelda, The - Link's Awakening DX (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "97822948|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Legend of Zelda, The - Oracle of Ages (USA).zip#Legend of Zelda, The - Oracle of Ages (USA).gbc",
+      "label": "Legend of Zelda, The - Oracle of Ages (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3800A387|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Legend of Zelda, The - Oracle of Seasons (USA).zip#Legend of Zelda, The - Oracle of Seasons (USA).gbc",
+      "label": "Legend of Zelda, The - Oracle of Seasons (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D7E9F5D7|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Megaman (USA).zip#Megaman (USA).gb",
+      "label": "Megaman (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "47E70E08|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Metroid II - Return of Samus (World).zip#Metroid II - Return of Samus (World).gb",
+      "label": "Metroid II - Return of Samus (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DEE05370|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Pokemon - Crystal Version (USA, Europe).zip#Pokemon - Crystal Version (USA, Europe).gbc",
+      "label": "Pokemon - Crystal Version (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EE6F5188|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Pokemon - Gold Version (USA, Europe).zip#Pokemon - Gold Version (USA, Europe).gbc",
+      "label": "Pokemon - Gold Version (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6BDE3C3E|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Pokemon - Kristall-Edition (Germany).zip#Pokemon - Kristall-Edition (Germany).gbc",
+      "label": "Pokemon - Kristall-Edition (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "616D85DE|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Pokemon - Silver Version (USA, Europe).zip#Pokemon - Silver Version (USA, Europe).gbc",
+      "label": "Pokemon - Silver Version (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8AD48636|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Pokemon - Yellow Version (USA, Europe).zip#Pokemon - Yellow Version (USA, Europe).gbc",
+      "label": "Pokemon - Yellow Version (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7D527D62|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Pokemon Blue.zip#Pokemon Blue.gb",
+      "label": "Pokemon Blue",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D6DA8A1A|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Pokemon Puzzle Challenge (USA).zip#Pokemon Puzzle Challenge (USA).gbc",
+      "label": "Pokemon Puzzle Challenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D06BBA96|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Pokemon Red.zip#Pokemon Red.gb",
+      "label": "Pokemon Red",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9F7FDD53|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Pokemon Trading Card Game (U) [C][!].zip#Pokemon Trading Card Game (U) [C][!].gbc",
+      "label": "Pokemon Trading Card Game (U) [C][!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "81069D53|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Sakura Taisen GB - Geki Hana Kumi Nyuutai! (Japan).zip#Sakura Taisen GB - Geki Hana Kumi Nyuutai! (Japan).gbc",
+      "label": "Sakura Taisen GB - Geki Hana Kumi Nyuutai! (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EF503D50|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Sakura Wars GB (English v0.0.1).zip#Sakura Wars GB (English v0.0.1).gbc",
+      "label": "Sakura Wars GB (English v0.0.1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "47932A54|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Sangokushi - Game Boy Ban (Japan).zip#Sangokushi - Game Boy Ban (Japan).gb",
+      "label": "Sangokushi - Game Boy Ban (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "83706E92|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Shantae (USA).zip#Shantae (USA).gbc",
+      "label": "Shantae (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E994B59B|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Super Mario Bros. Deluxe (USA, Europe).zip#Super Mario Bros. Deluxe (USA, Europe).gbc",
+      "label": "Super Mario Bros. Deluxe (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A4CD26FF|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Super Mario Land (JUE) (V1.1) [!].zip#Super Mario Land (JUE) (V1.1) [!].gb",
+      "label": "Super Mario Land (JUE) (V1.1) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2C27EC70|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Super Mario Land 2 - 6 Golden Coins (UE) (V1.2) [!].zip#Super Mario Land 2 - 6 Golden Coins (UE) (V1.2) [!].gb",
+      "label": "Super Mario Land 2 - 6 Golden Coins (UE) (V1.2) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "635A9112|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Tetris DX (World).zip#Tetris DX (World).gbc",
+      "label": "Tetris DX (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "69989152|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Wario Land - Super Mario Land 3 (World).zip#Wario Land - Super Mario Land 3 (World).gb",
+      "label": "Wario Land - Super Mario Land 3 (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "40BE3889|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Wario Land 3 (World) (En,Ja).zip#Wario Land 3 (World) (En,Ja).gbc",
+      "label": "Wario Land 3 (World) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "480D0259|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Wario Land II (USA, Europe) (SGB Enhanced).zip#Wario Land II (USA, Europe) (SGB Enhanced).gb",
+      "label": "Wario Land II (USA, Europe) (SGB Enhanced)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9C54358D|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou (J) [C][!].zip#Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou (J) [C][!].gbc",
+      "label": "Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou (J) [C][!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E42538F0|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou (J) [C][!].zip#Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou (J) [C][!].gbc",
+      "label": "Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou (J) [C][!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3272E6F9|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/roms/gbc/Zelda no Densetsu - Yume no Miru Shima DX (J) (V1.1) [C][!].zip#Zelda no Densetsu - Yume no Miru Shima DX (J) (V1.1) [C][!].gbc",
+      "label": "Zelda no Densetsu - Yume no Miru Shima DX (J) (V1.1) [C][!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BD8A1041|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+  ]
+}
