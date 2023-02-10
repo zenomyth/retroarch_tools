@@ -4,7 +4,11 @@ import json
 import zipfile
 
 def main():
-    playlist_file = Path("C:/OneDrive/vg_classic/playlists/Atari - 2600.lpl")
+    if(len(sys.argv) < 2):
+        print("Playlist required!", file=sys.stderr)
+        sys.exit(1)
+    playlist_file = sys.argv[1]
+    # playlist_file = Path("C:/OneDrive/vg_classic/playlists/Atari - 2600.lpl")
     # print(playlist_file.is_file())
     with open(playlist_file, "rb") as json_file:
         playlist = json.load(json_file)
@@ -27,8 +31,14 @@ def main():
         rom_ref = str(rom_file_path)
         with zipfile.ZipFile(rom_file_path, "r") as zip_ref:
             # print(zip_ref.namelist())
-            rom_name = next((x for x in zip_ref.namelist() if x.lower().endswith(rom_extension)), None)
+            if len(zip_ref.namelist()) == 1:
+                rom_name = next(x for x in zip_ref.namelist())
+            else:
+                rom_name = next((x for x in zip_ref.namelist() if x.lower().endswith(rom_extension)), None)
             # print(rom_name)
+            if rom_name == None:
+                print("Skipping " + rom_ref)
+                continue
             rom_ref += "#" + rom_name
             rom_ref = rom_ref.replace("/", "\\")
             # print(rom_ref)
@@ -51,8 +61,9 @@ def main():
                 "db_name": db_name
             }
         )
-    with open(playlist_file, "w") as json_file:
-        json.dump(playlist, json_file, indent="  ")
+    json.dump(playlist, sys.stdout, indent="  ")
+    # with open(playlist_file, "w") as json_file:
+        # json.dump(playlist, json_file, indent="  ")
     print("{} title(s) updated.".format(len(rom_refs)))
 
 if __name__ == '__main__':
