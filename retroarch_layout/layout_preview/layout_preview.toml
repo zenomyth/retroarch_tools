@@ -1,0 +1,19 @@
+# RetroArch layout preview config
+# screen = original layout design dimensions
+# phone  = (optional) actual device resolution — preview will render
+#          the overlay centered at its native aspect ratio, matching
+#          RA's Auto-Scale Overlay behavior on mobile
+
+[input]
+cfg = "../retroarch_layout_gamepad/snes.cfg"
+
+[output]
+path = "snes.png"
+
+[screen]
+width = 1080
+height = 1920
+
+[phone]
+width = 1080
+height = 2772
