@@ -129,7 +129,8 @@ def load_config(config_path=None):
         config_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'config.toml')
     with open(config_path, 'rb') as f:
         cfg = tomllib.load(f)
-    return cfg['screen']['width'], cfg['screen']['height'], cfg['output']['directory']
+    margin = cfg.get('layout', {}).get('margin', 0)
+    return cfg['screen']['width'], cfg['screen']['height'], cfg['output']['directory'], margin
 
 
 def write_output(overlays, output_path):
