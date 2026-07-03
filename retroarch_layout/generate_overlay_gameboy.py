@@ -39,7 +39,7 @@ ol_portrait.add_lr('load_state', 'save_state', ol_portrait.width / 2, menu_heigh
 
 ol_portrait.add_single_button('toggle_fast_forward', 260, menu_height, 'rect', 50, 50, 'ff.png', None)
 
-ol_portrait.add_single_button('a|b|select|start', ol_portrait.width - margin - 40, menu_height, 'rect', 50, 50, 'gb_abss.png', None)
+ol_portrait.add_single_button('a|b|select|start', ol_portrait.width / 2 + 280, menu_height, 'rect', 50, 50, 'gb_abss.png', None)
 
 ol_portrait.add_single_button('menu_toggle', ol_portrait.width / 2, menu_height, 'rect', 40, 40, 'rgui.png', None)
 
